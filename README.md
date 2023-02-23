@@ -1,1 +1,1 @@
-# Practice app with TypeScript(Design Pattern)
+# TypeScript(Design Pattern)
